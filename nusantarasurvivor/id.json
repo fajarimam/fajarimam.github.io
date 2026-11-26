@@ -35,14 +35,9 @@
       "icon_url": "https://10m.my.id/projectgame/konohafighterindonesia/konohafighter.png"
     },
     {
-      "title": "Konoha Fighters",
-      "app_url": "https://play.google.com/store/apps/details?id=com.ngalaboh.konohafighter",
-      "icon_url": "https://fajarimam.github.io/nusantarasurvivor/konohafight.png"
-    },
-    {
-      "title": "Konoha Fighterk",
-      "app_url": "https://play.google.com/store/apps/details?id=com.ngalaboh.konohafighter",
-      "icon_url": "https://10m.my.id/projectgame/konohafighterindonesia/konohafighter.png"
+      "title": "Anime Battle war",
+      "app_url": "https://play.google.com/store/apps/details?id=com.wilson.animebattleuniverse",
+      "icon_url": "https://fajarimam.github.io/gambar/anime.png"
     }
   ],
   "test_ads": "1",
